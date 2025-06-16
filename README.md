@@ -1,8 +1,1 @@
-# Hello World
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-``` 
+Predict the target movie
